@@ -1,0 +1,6 @@
+print(5 and True)
+print(5 or True)
+print(5 and False)
+print(5 or 7)
+print(False or 5)
+print(False and 5)
